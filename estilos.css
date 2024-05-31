@@ -1,0 +1,55 @@
+h2{	
+	color: black;
+}
+
+li{
+	color: black;
+}
+
+
+
+title {
+	color: black;
+}
+
+body {
+	color: black;
+}
+
+
+body {
+background: lightblue;
+}
+
+{
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style-type:lower-latin;
+
+}
+
+li{
+	list-style-position:inside ;
+}
+
+ul{
+	font-family: "verdana";
+	font-size: 16px;
+	line-height: 20px;
+
+}
+
+h2{
+	text-align: center;
+	background: #ccc;
+
+}
+
+h1{  
+	text-align: center;
+	background: #ccc;
+}
+
